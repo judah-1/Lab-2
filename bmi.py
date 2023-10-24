@@ -12,4 +12,5 @@ def calculate_bmi(height,weight):
             print("Weight classification: Normal Weight")
 
 
+
 calculate_bmi(1.57,20)
